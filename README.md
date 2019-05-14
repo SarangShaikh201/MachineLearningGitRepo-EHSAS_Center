@@ -21,15 +21,4 @@ Resource #02
 **Lesson 13 :** [Anomaly Detection]  
 **Lesson 14 :** [Support Vector Machines]
 **Lesson 15 :** [Dealing with Imbalanced Classes] 
-**Lesson 16 :** [Ensemble Methods]  
-
-
-## Case Study of Classic ML Problems
-**Case 1 :** [Linear Regression](https://github.com/zekelabs/data-science-complete-tutorial/blob/master/LR%20Example.ipynb)  
-**Case 2 :** [Cancer Prediction](https://github.com/zekelabs/data-science-complete-tutorial/blob/master/Cancer%20Prediction.ipynb)  
-**Case 3 :** [Online Learning](https://github.com/zekelabs/data-science-complete-tutorial/blob/master/Online%20Learning.ipynb)  
-**Case 4 :** [Customer Churn Prediction](https://github.com/zekelabs/data-science-complete-tutorial/blob/master/Project%20-%20Customer%20Churn%20Prediction.ipynb)  
-**Case 5 :** [Income Prediction](https://github.com/zekelabs/data-science-complete-tutorial/blob/master/Project%20-%20Income%20Prediction.ipynb)  
-**Case 6 :** [Predicting Employee Exit](https://github.com/zekelabs/data-science-complete-tutorial/blob/master/Project%20-%20Predicting%20Employee%20Exit.ipynb)  
-**Case 7 :** [Face Generation](https://github.com/zekelabs/data-science-complete-tutorial/blob/master/Project%20-%20Face%20Generation.ipynb)  
-**Case 8 :** [Finding Similar Houses](https://github.com/zekelabs/data-science-complete-tutorial/blob/master/Project%20-%20Finding%20Similar%20Houses.ipynb)  	
+**Lesson 16 :** [Ensemble Methods]  	
